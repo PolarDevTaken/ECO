@@ -3,6 +3,15 @@
 ### Profil szkolny/techniczny drużyny:
 ```Technik Programista```
 
+
+## Grafika Koncepcyjna 📋
+
+### Główna Postać: Robot Lunar
+
+![ConceptAndModelled](https://github.com/PolarDevTaken/-WIP-/assets/60744493/a553f829-b5d7-46bd-a411-349386926719)
+
+
+
 ## Tytuł Projektu: **[WIP]** 
 
 ### Cel Projektu 🎯
