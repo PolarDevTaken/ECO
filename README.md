@@ -1,5 +1,5 @@
 
-## ✨Lunar Studio Przedstawia: **ECO-NIGHT**/**ECO-KNIGHT** (ECO-STAR?) ✨
+## ✨Lunar Studio Przedstawia: **Eco-Sroka** (ECO-STAR?) ✨
 
 ### 
 
@@ -12,7 +12,7 @@
 
 
 
-## Tytuł Projektu: **[WIP]** 
+## Tytuł Projektu: **Eco-Sroka** 
 
 ### Cel Projektu 🎯
 
@@ -37,12 +37,7 @@ public class HelloWorld
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine ("Zimowe popołudnie. Piękna dama wychodzi na spacer w futrze i
-        spotyka na ulicy członków ekologicznej organizacji Greenpeace.  
-        - Jak pani nie wstyd nosić futro zdarte z żywych norek?  
-        - To nie norki, to poliestry.  
-        - A czy pani wie, ile poliestrów musiało oddać życie, żeby pani miała futro?!
-        ");
+        Console.WriteLine ("Eco-Sroka to kapitalny projekt");
     }
 }
 ```
