@@ -1,13 +1,14 @@
 
 ## ✨Lunar Studio Przedstawia: **Eco-Sroka** ✨
 
-## Grafika Koncepcyjna 🗒️
+## Grafika Wczesna/Koncepcyjna 🗒️
 
 ### Główna Postać:
+![ConceptAndModelled](https://github.com/PolarDevTaken/-WIP-/assets/60744493/d0af7801-6108-4f32-859c-b65323bc3fe3)
 
-![ConceptAndModelled](https://github.com/PolarDevTaken/-WIP-/assets/60744493/a553f829-b5d7-46bd-a411-349386926719)
 
-### Koncept Miasta:
+
+### Miasto:
 ![cityorsmthidk](https://github.com/PolarDevTaken/-WIP-/assets/60744493/0ac89773-53d0-4c2c-9926-059a749b609d)
 
 
