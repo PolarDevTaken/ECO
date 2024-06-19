@@ -1,7 +1,7 @@
 
-## ✨Lunar Studio Przedstawia: **ECO-NIGHT**/**ECO-KNIGHT**/**ECO-STAR** ✨
+## ✨Lunar Studio Przedstawia: **Eco-Sroka** ✨
 
-## Grafika Koncepcyjna 📋
+## Grafika Koncepcyjna 🗒️
 
 ### Główna Postać:
 
@@ -12,7 +12,7 @@
 
 
 
-## Tytuł Projektu: **[WIP]** 
+## Tytuł Projektu: **Eco-Sroka** 
 
 ### Cel Projektu 🎯
 
