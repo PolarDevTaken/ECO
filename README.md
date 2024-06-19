@@ -14,7 +14,7 @@
 
 
 
-## Tytuł Projektu: **Eco-Sroka** 
+## Tytuł Projektu: **Eco-...** 
 
 ### Cel Projektu 🎯
 
