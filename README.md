@@ -1,18 +1,18 @@
 
-## ✨Lunar Studio Przedstawia: **Eco-Sroka** (ECO-STAR?) ✨
-
-### 
-
+## ✨Lunar Studio Przedstawia: **ECO-NIGHT**/**ECO-KNIGHT**/**ECO-STAR** ✨
 
 ## Grafika Koncepcyjna 📋
 
-### Główna Postać: Robot Lunar
+### Główna Postać:
 
 ![ConceptAndModelled](https://github.com/PolarDevTaken/-WIP-/assets/60744493/a553f829-b5d7-46bd-a411-349386926719)
 
+### Koncept Miasta:
 
 
-## Tytuł Projektu: **Eco-Sroka** 
+
+
+## Tytuł Projektu: **[WIP]** 
 
 ### Cel Projektu 🎯
 
@@ -28,19 +28,6 @@ Projekt realizujemy etapami: po wstępnej analizie przeszliśmy do fazy koncepcj
 Nasz projekt, mimo że sam nie zmieni automatycznie podejścia wszystkich, może w połączeniu z innymi inicjatywami znacząco zwiększyć świadomość ekologiczną. Istnieje duża społeczność graczy, młodszych jak i starszych, która ciągle edukuje się przez gry. Wierzymy, że dobrze zrealizowana gra edukacyjna może skutecznie promować działania na rzecz poprawy jakości powietrza i walki ze zmianami klimatu.
 
 
-
-
-```C#
-using System;
-
-public class HelloWorld
-{
-    public static void Main(string[] args)
-    {
-        Console.WriteLine ("Eco-Sroka to kapitalny projekt");
-    }
-}
-```
 
 ### Wykorzystane techniki cyfrowe 🤖
 - [x] Używamy silnika Unity do wykorzystania nowoczesnych funkcji oraz zaawansowanego oświetlenia.
