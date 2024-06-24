@@ -8,8 +8,9 @@
 
 
 
-### Miasto:
-![cityorsmthidk](https://github.com/PolarDevTaken/-WIP-/assets/60744493/0ac89773-53d0-4c2c-9926-059a749b609d)
+### Pierwsza/startowa część miasteczka (niedokończona):
+![EcoTown](https://github.com/PolarDevTaken/ECO/assets/60744493/717db792-1e5f-424b-a139-e28acdf9d7cd)
+
 
 
 
