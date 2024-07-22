@@ -11,6 +11,10 @@
 ### Pierwsza/startowa część miasteczka (niedokończona):
 ![EcoTown](https://github.com/PolarDevTaken/ECO/assets/60744493/717db792-1e5f-424b-a139-e28acdf9d7cd)
 
+### Modele podstawowych domków:
+![image](https://github.com/user-attachments/assets/f8edc3db-7b93-40d0-8c24-26a50fd8fa55)
+
+
 
 
 
